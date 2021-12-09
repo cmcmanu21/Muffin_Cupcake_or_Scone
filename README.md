@@ -9,3 +9,5 @@ Use an SVM to properly predict whether the recipe is for a Muffin, Cupcake, or S
 ### Where to find the dataset:
 
 https://github.com/adashofdata/muffin-cupcake
+
+*** Use the recipes_muffins_cupcakes_scones.csv file
